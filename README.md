@@ -6,6 +6,6 @@
 **我喜欢很多东西！**
 -喜欢二次元-最喜欢的IP是Bang Dream-最喜欢的角色是千早爱音
 -喜欢
-
-
+**我的steam**
+[![Steam Card](https://card.yuy1n.io/card/76561198681630299/dark,badge,en,bg-game,badges,games,reviews)](https://steamcommunity.com/profiles/76561198681630299/)
 
