@@ -2,9 +2,9 @@
 
 ![Go](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
 
-- I am a fleshman in Fuzhou University(Computer Science and Technology)
+- 🎓 I am a fleshman in Fuzhou University(Computer Science and Technology)
 
-- My active time is unstable
+- 🗓️ My active time is unstable㊗️
 
 
 ### GitHub stats
