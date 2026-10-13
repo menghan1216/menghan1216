@@ -27,7 +27,7 @@ Ps:that's also the reason I cloose to learn GO
 
 - I love playing games 🎮 
 
-### my steam
+### my steam account
  
 [![Steam Card](https://card.yuy1n.io/card/76561198681630299/dark,badge,en,bg-game,badges,games,reviews)](https://steamcommunity.com/profiles/76561198681630299/)
 
