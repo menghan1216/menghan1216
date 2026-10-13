@@ -2,6 +2,10 @@
 
 ![Go](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 - 🎓 I am a fleshman in Fuzhou University(Computer Science and Technology)
 
 - 🗓️ My active time is unstable㊗️
